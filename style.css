@@ -7,3 +7,33 @@ h1 {
 body {
   background-color: #DBD9DB;
 }
+img{
+  border-radius: 8px;
+  width: 50%
+}
+
+nav{
+  list-style-type: none;
+  position:fixed;
+  background-color: #808f87;
+  border-radius:90px;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  padding: 20px;
+}
+
+li{
+  display: inline;
+  padding: 50px;
+  color: #e2efde
+}
+a:hover{
+  background-color:#afd0bf
+  border-radius: 5px;
+}
+a{
+
+text-decoration:none
+color: #e2efde
+}
